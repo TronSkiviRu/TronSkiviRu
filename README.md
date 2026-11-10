@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TronSkiviRu&show_icons=true&theme=radical)
 
 <!--
 **TronSkiviRu/TronSkiviRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
